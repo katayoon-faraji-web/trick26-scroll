@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: font1;
+    src: url("../font/Rubik_Bubbles/RubikBubbles-Regular.ttf") format("opentype");
+}
+@font-face {
+    font-family: font2;
+    src: url("../font/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf") format("opentype");
+}
